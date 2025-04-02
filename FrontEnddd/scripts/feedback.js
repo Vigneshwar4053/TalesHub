@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const message = document.getElementById("message").value;
 
         const templateParams = {
-            to_email: "Your_name",
+            to_email: "Your_Email",
             from_email: email,
             message: message
         };
